@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @arinbaruah
+- 👋 Hi, I’m @arinbaruah (Rin)
+- 🎓 I'm currently studying Business Analytics in Monash Business School
 - 👀 I’m interested in F1 and Tennis data analytics  
 - 🌱 I’m currently learning R programming for Business Analytics
 - 💞️ I’m looking to collaborate on projects in the field of Data Science, Business Intelligence, Operations Management, Metallurgy 
