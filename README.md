@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=arinbaruah)
+<!---![Github stats](https://github-readme-stats.vercel.app/api?username=arinbaruah)--->
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
 
 
