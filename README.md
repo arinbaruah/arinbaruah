@@ -1,3 +1,9 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=arinbaruah)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
+
+
+
+
 - 👋 Hi, I’m @arinbaruah (Rin)
 - 🎓 I'm currently studying Business Analytics in Monash Business School
 - 👀 I’m interested in F1 and Tennis data analytics  
