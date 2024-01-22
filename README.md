@@ -1,5 +1,5 @@
 ![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinbaruah&show_icons=true&theme=gradient&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&layout=donut-vertical)](https://github.com/arinbaruah)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
 
 
 
