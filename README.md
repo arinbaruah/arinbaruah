@@ -1,7 +1,6 @@
-<!---![Github stats](https://github-readme-stats.vercel.app/api?username=arinbaruah)--->
+![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinbaruah&show_icons=true&theme=radical&hide_rank=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
 
-[![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=arinbaruah)](https://github.com/arinbaruah/github-readme-stats)
 
 
 - 👋 Hi, I’m @arinbaruah (Rin)
