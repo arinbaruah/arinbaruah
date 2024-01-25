@@ -16,6 +16,8 @@
   <a href="[LinkedIn](https://www.linkedin.com/in/arindam-baruah/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+- 🖥️ I look competing in analytics competitions and sharing my work on ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+  </a>
 - 🕵️‍♂️ Be sure to check out my informative blog on analytical projects [here](https://arinbaruah.github.io/Rinsights_blog/).
 - ⚒️ Tools I commonly use
 
