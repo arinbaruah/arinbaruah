@@ -1,7 +1,10 @@
 ![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinbaruah&show_icons=true&theme=gradient&rank_icon=github)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
 
-
+<div id="badges">
+  <a href="[LinkedIn](https://www.linkedin.com/in/arindam-baruah/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 - 👋 Hi, I’m @arinbaruah (Rin)
 - 🎓 I'm currently studying Business Analytics in Monash Business School
