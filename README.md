@@ -1,7 +1,7 @@
 
 ![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinbaruah&show_icons=true&theme=gradient&rank_icon=github)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arinbaruah&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
   <img src="https://komarev.com/ghpvc/?username=arinbaruah&style=flat-square&color=blue" alt=""/>
 
@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
 </div>
 
 <!---
