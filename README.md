@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+  <img src="https://komarev.com/ghpvc/?username=arinbaruah&style=flat-square&color=blue" alt=""/>
+
 - 👋 Hi, I’m @arinbaruah (Rin)
 - 🎓 I'm currently studying Business Analytics in Monash Business School
 - 👀 I’m interested in F1 and Tennis data analytics  
