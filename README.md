@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 - 🖥️ I look competing in analytics competitions and sharing my work on <div id="badges">
-  <a href="[Kaggle](https://www.kaggle.com/arindambaruah)">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle badge"/>
-  </a>
+  <a href="https://www.kaggle.com/arindambaruah">
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle badge"/>
+</a>
 - 🕵️‍♂️ Be sure to check out my informative blog on analytical projects [here](https://arinbaruah.github.io/Rinsights_blog/).
 - ⚒️ Tools I commonly use
 
