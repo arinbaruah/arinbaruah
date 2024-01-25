@@ -20,8 +20,9 @@
   <a href="https://www.kaggle.com/arindambaruah">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle badge"/>
 </a>
+
 - 🕵️‍♂️ Be sure to check out my informative blog on analytical projects [here](https://arinbaruah.github.io/Rinsights_blog/).
-- ⚒️ Tools I commonly use
+- ⚒️ Tools I commonly use are:
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
