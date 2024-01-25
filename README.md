@@ -1,10 +1,11 @@
+                                   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arinbaruah&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinbaruah&show_icons=true&theme=gradient&rank_icon=github)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
 
 
   <img src="https://komarev.com/ghpvc/?username=arinbaruah&style=flat-square&color=blue" alt=""/>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arinbaruah&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 - 👋 Hi, I’m @arinbaruah (Rin)
 - 🎓 I'm currently studying Business Analytics in Monash Business School
@@ -20,7 +21,8 @@
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Studio" **alt="R Studio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
 <!---
