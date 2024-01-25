@@ -13,10 +13,10 @@
 - 🌱 I’m currently learning R programming, SQL and Tableau for Business Analytics
 - 💞️ I’m looking to collaborate on projects in the field of Data Science, Business Intelligence, Operations Management, Metallurgy 
 - 📫 How to reach me on <div id="badges">
-  <a href="[LinkedIn](https://www.linkedin.com/in/arindam-baruah/)">
+  <a href="https://www.linkedin.com/in/arindam-baruah/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- 🖥️ I look competing in analytics competitions and sharing my work on <div id="badges">
+- 🖥️ I love competing in analytics competitions and sharing my work on <div id="badges">
   <a href="https://www.kaggle.com/arindambaruah">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle badge"/>
 </a>
