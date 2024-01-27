@@ -15,6 +15,9 @@
 - 📫 How to reach me on <div id="badges">
   <a href="https://www.linkedin.com/in/arindam-baruah/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="arindam-baruah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/arindam-baruah?trk=profile-badge">Arindam Baruah</a></div>
+              
   </a>
 - 🖥️ I love competing in analytics competitions and sharing my work on <div id="badges">
   <a href="https://www.kaggle.com/arindambaruah">
