@@ -14,8 +14,7 @@
 - 💞️ I’m looking to collaborate on projects in the field of Data Science, Business Intelligence, Operations Management, Metallurgy 
 - 📫 How to reach me on <div id="badges">
   <a href="https://www.linkedin.com/in/arindam-baruah/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-              
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a>
 - 🖥️ I love competing in analytics competitions and sharing my work on <div id="badges">
   <a href="https://www.kaggle.com/arindambaruah">
