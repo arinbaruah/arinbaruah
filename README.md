@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
-  <img src="<img src=https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg#L1" title="Azure" **alt="Azure" width="40" height="40"/>
   
 </div>
 
