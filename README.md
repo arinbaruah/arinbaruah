@@ -20,7 +20,7 @@
   <a href="https://www.kaggle.com/arindambaruah">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle badge"/>
 </a>  <div id="badges">  <a href="https://arinbaruah.github.io/Rinsights_blog/">
-  <img src="https://img.shields.io/badge/R-insights" alt="R-insights"/>
+  <img src="https://img.shields.io/badge/Rinsights" alt="R-insights"/>
 </a>
 
   
