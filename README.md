@@ -19,11 +19,7 @@
 - 🖥️ I love competing in analytics competitions and sharing my work on <div id="badges">
   <a href="https://www.kaggle.com/arindambaruah">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle badge"/>
-</a>  <div id="badges">  <a href="https://arinbaruah.github.io/Rinsights_blog/">
-  <img src="https://img.shields.io/badge/Rinsights" alt="R-insights"/>
-</a>
-
-  
+</a>  <div id="badges">  
 
 - 🕵️‍♂️ Be sure to check out my informative blog on analytical projects [here](https://arinbaruah.github.io/Rinsights_blog/).
 - ⚒️ Tools I commonly use are:
