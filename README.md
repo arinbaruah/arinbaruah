@@ -1,7 +1,6 @@
 
 ![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinbaruah&show_icons=true&theme=gradient&rank_icon=github)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
-/**[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arinbaruah&theme=dark&background=000000)](https://git.io/streak-stats)**/
 
   <img src="https://komarev.com/ghpvc/?username=arinbaruah&style=flat-square&color=blue" alt=""/>
 
