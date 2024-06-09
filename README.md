@@ -35,6 +35,10 @@
   
 </div>
 
+Latest entry to Storytelling With Data Challenge
+
+![](https://github.com/arinbaruah/SWD_challenges/blob/main/May/high-dimension-analysis_files/figure-html/fig-pcaplayer-1.png)
+
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
