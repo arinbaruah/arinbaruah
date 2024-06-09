@@ -37,7 +37,7 @@
 
 Latest entry to Storytelling With Data Challenge
 
-![](https://github.com/arinbaruah/SWD_challenges/blob/main/May/high-dimension-analysis_files/figure-html/fig-pcaplayer-1.png)
+![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Montage.png)
 
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
