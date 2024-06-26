@@ -39,6 +39,10 @@ Latest entry to Storytelling With Data Challenge
 
 ![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Montage.png)
 
+
+Formula 1 data analysis
+
+![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/fastest_lap_analysis.png)
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
