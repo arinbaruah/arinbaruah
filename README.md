@@ -42,6 +42,8 @@ Latest entry to Storytelling With Data Challenge
 
 Formula 1 data analysis
 
+![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/SpanishGP24.png)
+
 ![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/fastest_lap_analysis.png)
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
