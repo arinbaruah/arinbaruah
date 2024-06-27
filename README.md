@@ -35,7 +35,7 @@
   
 </div>
 
-# Latest entry to Storytelling With Data Challenge
+# Storytelling With Data Challenge Entries
 
 ![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Montage.png)
 
