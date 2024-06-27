@@ -1,4 +1,4 @@
-
+# Welcome to my GitHub page! 
 ![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinbaruah&show_icons=true&theme=gradient&rank_icon=github)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinbaruah&hide=html,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arinbaruah&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -35,12 +35,12 @@
   
 </div>
 
-Latest entry to Storytelling With Data Challenge
+# Latest entry to Storytelling With Data Challenge
 
 ![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Montage.png)
 
 
-Formula 1 data analysis
+# Formula 1 data analysis
 
 ![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/SpanishGP24.png)
 
