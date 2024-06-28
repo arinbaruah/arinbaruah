@@ -42,13 +42,13 @@
 
 # Formula 1 data analysis
 
-## Spanish GP
+## 1. Spanish GP
 
 ![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/SpanishGP24.png)
 
 ![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/fastest_lap_analysis_nor.png)
 
-## Austrian GP
+## 2. Austrian GP
 
 ![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/fastest_team_aut_fp1.png)
 
