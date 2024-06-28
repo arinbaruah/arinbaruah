@@ -53,6 +53,8 @@
 ![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/fastest_team_aut_fp1.png)
 
 ![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/fastest_lap_comparison_aut_sq.png)
+
+![](https://github.com/arinbaruah/Formula-1-data-analysis/blob/main/plots/marked_gear_Shifts.png)
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
