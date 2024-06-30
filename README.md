@@ -39,6 +39,9 @@
 
 ![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Montage.png)
 
+# Forecasting using ETS and SARIMA models
+![](https://github.com/arinbaruah/ABS_RetailProject_AF/blob/main/RetailProject_Arindom_32779267_files/figure-html/fig-forecast-1.png)
+
 
 # Formula 1 data analysis
 
