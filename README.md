@@ -62,6 +62,8 @@
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/marked_gear_Shifts.png)
 
+![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/stint_comparison.png)
+
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
