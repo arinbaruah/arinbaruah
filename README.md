@@ -56,7 +56,7 @@
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/Ver_laps_race_aut24.png)
 
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/fastest_team_aut_fp1.png)
+![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/s3_aut_q.png)
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/fastest_lap_comparison_aut_sq.png)
 
