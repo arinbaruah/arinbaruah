@@ -66,6 +66,8 @@
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/stint_comparison.png)
 
+![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/British_GP/s3_gbr_top_speed.png)
+
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
