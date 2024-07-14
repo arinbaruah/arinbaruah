@@ -37,13 +37,11 @@
 
 # Storytelling With Data Challenge Entries
 
-![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Montage.png)
+![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Gallery.png)
 
 # TidyTuesday Entries
 
-![](https://github.com/arinbaruah/TidyTuesdayViz/blob/main/July/index_files/figure-html/unnamed-chunk-6-1.png)
-
-![](https://github.com/arinbaruah/TidyTuesdayViz/blob/main/July/index_files/figure-html/unnamed-chunk-8-1.png)
+![](https://github.com/arinbaruah/TidyTuesdayViz/blob/main/plot/Gallery.png)
 
 # Forecasting using ETS and SARIMA models
 ![](https://github.com/arinbaruah/ABS_RetailProject_AF/blob/main/RetailProject_Arindom_32779267_files/figure-html/fig-forecast-1.png)
