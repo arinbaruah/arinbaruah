@@ -49,7 +49,7 @@
 
 # Formula 1 data analysis
 
-![](plots/Gallery_updated.png)
+![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/plots/Gallery_updated.png)
 
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
