@@ -49,22 +49,7 @@
 
 # Formula 1 data analysis
 
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Spanish_GP/SpanishGP24.png)
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/aut_circuit_Sectotsplits.png)
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/Ver_laps_race_aut24.png)
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/s3_aut_q.png)
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/fastest_lap_comparison_aut_sq.png)
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/marked_gear_Shifts.png)
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/stint_comparison.png)
-
-![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/British_GP/s3_gbr_top_speed.png)
+![](plots/Gallery_updated.png)
 
 <!---
 arinbaruah/arinbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
