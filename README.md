@@ -46,7 +46,7 @@
 
 # TidyTuesday Entries
 
-![](https://github.com/arinbaruah/TidyTuesdayViz/blob/main/plot/Gallery.png)
+![](https://github.com/arinbaruah/TidyTuesdayViz/blob/main/plot/montage.png)
 
 # Forecasting using ETS and SARIMA models
 ![](https://github.com/arinbaruah/ABS_RetailProject_AF/blob/main/RetailProject_Arindom_32779267_files/figure-html/fig-forecast-1.png)
