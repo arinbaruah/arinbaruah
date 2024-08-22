@@ -9,9 +9,9 @@
 
 - 👋 Hi, I’m @arinbaruah (Rin)
 - 🎓 I'm currently studying Business Analytics in Monash Business School
-- 👀 I’m interested in F1,Tennis,Manufacturing Process Monitoring and Procurement cycle data analytics  
+- 👀 I’m interested in F1 race analysis,Manufacturing Process Monitoring and Procurement cycle data analytics  
 - 🌱 I’m currently learning R programming, Python, SQL, PowerBI and Tableau for Business Analytics
-- 💞️ I’m looking to collaborate on projects in the field of Data Science, Business Intelligence, Operations Management,Capital Model Delivery Analysis,Manufacturing Process Optimisation
+- 💞️ I’m looking to collaborate on projects in the field of Data Science, Business Intelligence, Operations Management,Infrastructure Delivery Model Analysis,Manufacturing Process Optimisation
 - 📫 How to reach me on <div id="badges">
   <a href="https://www.linkedin.com/in/arindam-baruah/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
