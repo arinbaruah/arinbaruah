@@ -42,7 +42,7 @@
 
 # Storytelling With Data Challenge Entries
 
-![Data Viz challenges](https://github.com/arinbaruah/SWD_challenges/blob/main/Gallery.png)
+![](https://github.com/arinbaruah/SWD_challenges/blob/main/2024/Montage.png)
 
 # TidyTuesday Entries
 
